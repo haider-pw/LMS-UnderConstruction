@@ -55,3 +55,7 @@
     <div id="notification_message">
         The Action has been completed Successfully.
     </div><!-- End of notification_message -->
+
+    <div id="zorkif_drop_down_menu"  class="clearfix">
+        <?php $this->load->view('front_end/ui_components/main_top_navigation'); ?>
+    </div>
