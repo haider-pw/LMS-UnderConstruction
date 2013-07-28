@@ -13,7 +13,7 @@
 <script src="http://noonacademy.com/scripts/jquery-ui.js"></script>
 
 <!--  Nivo Image Slider -->
-<link href="styles/zorkif_fluid_grids.css" rel="stylesheet" type="text/css">
+<link href=" <?php echo base_url('styles/front_end/zorkif_fluid_grids.css'); ?>" rel="stylesheet" type="text/css">
 <!-- Form Validation -->
 <script src="http://noonacademy.com/scripts/jquery-validate.min.js"></script>
 
