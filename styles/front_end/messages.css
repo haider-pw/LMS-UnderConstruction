@@ -15,14 +15,14 @@
 	top: 0px;
 	z-index: 999999;
 	display:none;
-	background:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/message_box/red.png) 0 -4px;
+	background:url(../../images/front_end/message_box/red.png) 0 -4px;
 	background-repeat:repeat-x;
 }
 #error_message .error_message_icon{
 	width:28px;
 	height:30px;
 	margin-right:28px;
-	background:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/message_box/error.png) 0 -4px;
+	background:url(../../images/front_end/message_box/error.png) 0 -4px;
 	background-repeat:no-repeat;
 }
 #warning_message {
@@ -40,7 +40,7 @@
 	top: 0px;
 	z-index: 999999;
 	display:none;
-	background:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/message_box/yellow.png) 0 -4px;
+	background:url(../../images/front_end/message_box/yellow.png) 0 -4px;
 	background-repeat:repeat-x;		
 }
 
@@ -48,7 +48,7 @@
 	width:28px;
 	height:30px;
 	margin-right:28px;
-	background:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/message_box/warning.png) 0 -4px;
+	background:url(../../images/front_end/message_box/warning.png) 0 -4px;
 	background-repeat:no-repeat;
  
 }
@@ -67,14 +67,14 @@
 	top: 0px;
 	z-index: 999999;
 	display:none;	
-	background:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/message_box/green.png) 0 -4px;
+	background:url(../../images/front_end/message_box/green.png) 0 -4px;
 	background-repeat:repeat-x;
 }
 #notification_message .notification_message_icon{
 	width:28px;
 	height:30px;
 	margin-right:28px;
-	background:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/message_box/notification.png) 0 -4px;
+	background:url(../../images/front_end/message_box/notification.png) 0 -4px;
 	background-repeat:no-repeat;
 }
 .message_box{

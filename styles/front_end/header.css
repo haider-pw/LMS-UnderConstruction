@@ -66,14 +66,14 @@
 	padding-left:3px;
 	float:left;
 	background-color:#000;
-	 background-image: url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/header_top_nav/bg.png);
+	 background-image: url(../../images/front_end/header_top_nav/bg.png);
 	background-repeat: repeat-x;
 	font-size:0.9em;
 }
 #header_top_nav a{
 	width:94px;
 	height:16px;
-	background-image: url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/header_top_nav/bg.png);
+	background-image: url(../../images/front_end/header_top_nav/bg.png);
 	background-repeat: repeat-x;
 	padding: 12px;
 	*padding: 10px; /* IE Fix */
@@ -89,11 +89,11 @@
 
 #header_top_nav a:hover{
 	background-color: #FFF;
-	background-image: url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/header_top_nav/bg_hover.png);
+	background-image: url(../../images/front_end/header_top_nav/bg_hover.png);
 	color: #333;
 }
 #header_top_nav a.active{
-	background-image: url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/header_top_nav/bg_active.png);
+	background-image: url(../../images/front_end/header_top_nav/bg_active.png);
 	color: #237CD6;
 }
 #header_top_nav a.right_border{

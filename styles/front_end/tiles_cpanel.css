@@ -41,7 +41,7 @@
 
 }
 .tile .tile_image a:hover .show_tile_hover{
-	background-image: url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/cpanel_tiles/default_hover.png);
+	background-image: url(../../images/front_end/cpanel_tiles/default_hover.png);
 	width: 195px;
 	height: 160px;
 	top: -170px;

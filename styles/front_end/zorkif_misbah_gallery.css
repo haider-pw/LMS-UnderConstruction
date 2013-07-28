@@ -8,7 +8,7 @@ Email: kifayat@zorkif.com
  */
 
 .zorkif_misbah_gallery{
-	background-image:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/zorkif_misbah_gallery/gallery_bg.jpg);
+	background-image:url(../../images/front_end/zorkif_misbah_gallery/gallery_bg.jpg);
 	background-repeat:no-repeat;
 	width:600px;
 	height:600px;	
@@ -19,20 +19,20 @@ Email: kifayat@zorkif.com
 .zorkif_misbah_gallery .zorkif_misbah_gallery_header{
 	height:40px;
 	width:600px;
-	background-image:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/zorkif_misbah_gallery/gallery_header.png);
+	background-image:url(../../images/front_end/zorkif_misbah_gallery/gallery_header.png);
 }
 
 .zorkif_misbah_gallery .zorkif_misbah_gallery_header .zorkif_misbah_gallery_header_left_nav_button a{
 	width:90px;
 	height:40px;
-	background-image:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/zorkif_misbah_gallery/gallery_button_left.png);
+	background-image:url(../../images/front_end/zorkif_misbah_gallery/gallery_button_left.png);
 		background-position: -0px -0px;
 	float:left;	
 }
 .zorkif_misbah_gallery .zorkif_misbah_gallery_header .zorkif_misbah_gallery_header_left_nav_button a:hover{
 	width:90px;
 	height:40px;
-	background-image:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/zorkif_misbah_gallery/gallery_button_left.png);
+	background-image:url(../../images/front_end/zorkif_misbah_gallery/gallery_button_left.png);
 	background-position: -0px -40px;
 	float:left;	
 }
@@ -40,14 +40,14 @@ Email: kifayat@zorkif.com
 .zorkif_misbah_gallery .zorkif_misbah_gallery_header .zorkif_misbah_gallery_header_right_nav_button a{
 	width:90px;
 	height:40px;
-	background-image:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/zorkif_misbah_gallery/gallery_button_right.png);
+	background-image:url(../../images/front_end/zorkif_misbah_gallery/gallery_button_right.png);
 	background-position: -0px -0px;
 	float:right;			
 }
 .zorkif_misbah_gallery .zorkif_misbah_gallery_header .zorkif_misbah_gallery_header_right_nav_button a:hover{
 	width:90px;
 	height:40px;
-	background-image:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/zorkif_misbah_gallery/gallery_button_right.png);
+	background-image:url(../../images/front_end/zorkif_misbah_gallery/gallery_button_right.png);
 	background-position: -0px -40px;
 	float:right;			
 }

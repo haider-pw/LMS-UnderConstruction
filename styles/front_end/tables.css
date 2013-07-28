@@ -29,7 +29,7 @@
 	color: #FFFFFF;
 	/* [disabled]font-weight:bold; */
 	background-color: #0e75bc;
-	background-image: url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/tables/header_bg.jpg);
+	background-image: url(../../images/front_end/tables/header_bg.jpg);
 	background-repeat: repeat-x;
 	border: none;
 }
@@ -66,7 +66,7 @@
 	color: #333333;
 	font-weight:bold;
 	background-color: #E8E8E8;
-	background-image:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/tables/header_bg.jpg);
+	background-image:url(../../images/front_end/tables/header_bg.jpg);
 	background-repeat:repeat-x;
 	border:none;
 }

@@ -6,7 +6,7 @@
 	margin-bottom: 10px;
 	background-color: #424345;
 	display: block;
-	background-image: url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/slides/slide1.jpg);
+	background-image: url(../../images/front_end/slides/slide1.jpg);
 	background-repeat: repeat-x;
 	overflow: hidden;
 }
@@ -22,7 +22,7 @@
 	background-color:#333;
 	margin-left: auto;
 	margin-right: auto;
-	background-image:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/zorkif_slider/slider_menu_bg.jpg);
+	background-image:url(../../images/front_end/zorkif_slider/slider_menu_bg.jpg);
 	background-repeat:repeat-x;
 	padding-top:25px;
 	/* margin-top:380px; /* Disabled By Kifayat */
@@ -32,7 +32,7 @@
 	height: 45px;
 	color: #FFF;
 	/* [disabled]background-color:#F00; */
-	background-image: url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/zorkif_slider/menu_button_bg.jpg);
+	background-image: url(../../images/front_end/zorkif_slider/menu_button_bg.jpg);
 	background-repeat: repeat-x;
 	padding: 12px;
 	text-align: center;
@@ -46,7 +46,7 @@
 }
 .zorkif_slider_menu_bar a:hover, .zorkif_slider_menu_bar .active{
 	background-color:#FFF;
-	background-image:url(../../../../../../My%20Web%20Sites/NoonAcademy/noonacademy.com/images/zorkif_slider/menu_button_bg_hover.jpg);
+	background-image:url(../../images/front_end/zorkif_slider/menu_button_bg_hover.jpg);
 	background-repeat:repeat-x;	
 	color:#333;
 }
