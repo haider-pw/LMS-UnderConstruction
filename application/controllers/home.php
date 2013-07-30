@@ -7,4 +7,7 @@ class Home extends Frontend_Controller{
     public function index(){
         $this->load->view('front_end/home');
     }
+    function login(){
+        $this->load->view('front_end/users_login');
+    }
 }

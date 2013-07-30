@@ -1,23 +1,5 @@
-<div class="main_container">
-<div id="header">
 
-    <div id="header_top_nav" class="round_corners">
-        <a href="index-2.html" class="active  right_border">
-            <img src="images/header_top_nav/icon_selected.png" width="22" height="19" />
-        </a>
-        <a href="index3899.html?page_id=avaliable_courses" class=" right_border">مواد</a>
-        <a href="index1073.html?page_id=our_company" class="  right_border">من نحن</a>
-        <a href="indexe00f.html?page_id=our_services" class=" right_border">الخدمات</a>
-        <a href="index5d8a.html?page_id=support" class="">الدعم الفني</a>
-    </div><!-- end of header_top_nav -->
-
-
-    <div id="header_top_logo">
-        <img src="images/header_top_nav/e_school_logo.png">
-    </div><!-- End of header_top_logo -->
-
-
-</div><!-- End of header --><div id="content_container"><div id="zorkif_slider" class="round_corners">
+<div id="content_container"><div id="zorkif_slider" class="round_corners">
 
     <div id="wrapper" class="zorkif_slider_wrapper">
         <div class="slider-wrapper theme-default">

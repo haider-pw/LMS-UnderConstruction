@@ -59,3 +59,5 @@
     <div id="zorkif_drop_down_menu"  class="clearfix">
         <?php $this->load->view('front_end/ui_components/main_top_navigation'); ?>
     </div>
+    <div class="main_container">
+<?php $this->load->view('front_end/ui_components/site_header') ?>
